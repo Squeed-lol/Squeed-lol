@@ -5,7 +5,7 @@
 ‎
 ‎
 ## 🚀 About Me
-I'm a python learner, and I enjoy playing and making small projects.
+I'm a python learner, and I enjoy playing video games and making small projects.
 
 
 ## 🛠 Skills
